@@ -1,0 +1,1 @@
+https://geoserver.meioambiente.mg.gov.br/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WebGis:1102_mg_unidade_federacao_pol&outputFormat=SHAPE-ZIP
